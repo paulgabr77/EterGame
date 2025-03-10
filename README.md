@@ -2,9 +2,6 @@
 
 Eter is a **turn-based strategy game** designed for two players. Drawing inspiration from timeless classics like **Tic-Tac-Toe** and **Connect 4**, Eter introduces unique mechanics that infuse the gameplay with **magical elements** and **deep strategy**. Players strategically place and stack numbered cards across a dynamic board while wielding powerful spells to influence the game's progression! 📝🎴
 
-## 📹 Gameplay Showcase
-View the Game in Action!
-
 ## 📖 Core Rules
 ⚜️ **Playing Field**: A dynamic 3x3 or 4x4 grid.
 ⚜️ **Card System**: Each player controls numbered cards (1-4) and one special "Eter" card.
